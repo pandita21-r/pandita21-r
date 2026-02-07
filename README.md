@@ -6,10 +6,8 @@
 ---
 
 ### 🛠 Tech Stack
-- Java (fundamentals)
-- Git & GitHub
 
-![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+https://skillicons.dev/icons?i=java,git,github,neovim
 
 📝 I primarily write code using **Neovim**.
 
