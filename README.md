@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Raymark 👋
 
-<!--
-**pandita21-r/pandita21-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology student  
+💻 Learning to code and build software step by step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Java (fundamentals)
+- Git & GitHub
+
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+📝 I primarily write code using **Neovim**.
+
+---
+
+### 📌 About Me
+- Interested in learning new technologies
+- Focused on building strong programming fundamentals
+- Documenting my learning journey through practice repositories
+
+📈 *This profile and my repositories will continue to grow as I learn and improve.*
