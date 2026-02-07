@@ -5,7 +5,7 @@
 
 ---
 
-### Tech Stack
+### Tech Stack>
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,github,neovim)
 
