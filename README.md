@@ -3,9 +3,10 @@
  ◓ BS Information Technology student  
  ◓ Learning to code and build software step by step  
 
----
 
 ### Tech Stack
+
+___
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,github,neovim)
 
