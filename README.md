@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack
 
-https://skillicons.dev/icons?i=java,git,github,neovim
+![Tech Stack](https://skillicons.dev/icons?i=java,git,github,neovim)
 
 📝 I primarily write code using **Neovim**.
 
