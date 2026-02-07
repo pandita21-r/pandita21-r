@@ -10,9 +10,7 @@
 
 ✓ I primarily write code using **Neovim**.
 
----
-
-### ⨠ About Me
+## ⨠ About Me
 - Interested in learning new technologies
 - Focused on building strong programming fundamentals
 - Documenting my learning journey through practice repositories
