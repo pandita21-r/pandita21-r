@@ -4,9 +4,7 @@
  ◓ Learning to code and build software step by step  
 
 
-### Tech Stack
-
-___
+## Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,github,neovim)
 
