@@ -1,4 +1,4 @@
-# Hi, I'm Raymark 👋
+# Hi, I'm Raymark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 🎓 BS Information Technology student  
 💻 Learning to code and build software step by step  
@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=java,git,github,neovim)
+![Tech Stack](https://skillicons.dev/icons?i=java,github,neovim)
 
 📝 I primarily write code using **Neovim**.
 
