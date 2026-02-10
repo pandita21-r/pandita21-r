@@ -11,6 +11,8 @@
 ✓ I primarily write code using **Neovim**.
 
 ## ⨠ About Me
+
+- Currently studying BS Information Technology at the University of Mindanao
 - Interested in learning new technologies
 - Focused on building strong programming fundamentals
 - Documenting my learning journey through practice repositories
