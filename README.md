@@ -1,6 +1,7 @@
 # Hi, I'm Raymark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![Visitors](https://komarev.com/ghpvc/?username=pandita21-r&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=My%20Visitors&color=blueviolet&style=flat)
+
  ◓ BS Information Technology student  
  ◓ Learning to code and build software, step by step  
 
