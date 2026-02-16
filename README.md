@@ -5,8 +5,10 @@
  ◓ BS Information Technology student  
  ◓ Learning to code and build software, step by step  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandita21-r&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+![Raymark's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandita21-r&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandita21-r&layout=compact&theme=tokyonight)
 
 ## Tech Stack
 
