@@ -19,4 +19,4 @@
 
 ↗ *This profile and my repositories will continue to grow as I learn and improve.*
 
-↗ *Currently practicing OOP fundamentals(check pratice-repository).*
+↗ *Currently practicing OOP fundamentals (check practice-repository).*
