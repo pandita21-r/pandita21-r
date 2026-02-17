@@ -18,4 +18,5 @@
 - Focused on building strong programming fundamentals
 - Currently practicing OOP fundamentals
 - Documenting my learning journey through practice repositories
+  
 ↗ *This profile and my repositories will continue to grow as I learn and improve.*
