@@ -16,8 +16,6 @@
 - Currently studying BS Information Technology at the University of Mindanao
 - Interested in learning new technologies
 - Focused on building strong programming fundamentals
+- Currently practicing OOP fundamentals
 - Documenting my learning journey through practice repositories
-
 ↗ *This profile and my repositories will continue to grow as I learn and improve.*
-
-↗ *Currently practicing OOP fundamentals (check practice-repository).*
