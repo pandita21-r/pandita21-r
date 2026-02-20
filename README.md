@@ -5,13 +5,9 @@
  ◓ BS Information Technology student  
  ◓ Learning to code and build software, step by step  
 
-## Tech Stack
+## Tech Stack & Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=java,github)
-
-## Tools
-
-![Tools](https://skillicons.dev/icons?i=neovim,vscode,idea)
+![Tech Stack](https://skillicons.dev/icons?i=java,github,neovim,vscode,idea)
 
 ✓ I primarily write code using **Neovim**.
 
