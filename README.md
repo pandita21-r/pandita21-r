@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pandita21-r&label=My%20Visitors&color=brightgreen&style=flat)
 
  ◓ BS Information Technology student 
+ 
  ◓ Building strong programming fundamentals, one step at a time  
 
 ## Tech Stack & Tools
