@@ -7,9 +7,9 @@
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=java,github,neovim,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=java,github)
 
-## Tech Stack
+## Tools
 
 ![Tools](https://skillicons.dev/icons?i=neovim,vscode,idea)
 
