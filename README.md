@@ -9,6 +9,8 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,github,neovim,vscode)
 
+## Tech Stack
+
 ![Tools](https://skillicons.dev/icons?i=neovim,vscode,idea)
 
 ✓ I primarily write code using **Neovim**.
