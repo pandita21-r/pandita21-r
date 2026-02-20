@@ -2,12 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pandita21-r&label=My%20Visitors&color=brightgreen&style=flat)
 
- ◓ BS Information Technology student  
- ◓ Learning to code and build software, step by step  
+ ◓ BS Information Technology student 
+ ◓ Building strong programming fundamentals, one step at a time  
 
 ## Tech Stack & Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=java,github,neovim,vscode,idea)
+![Tech Stack](https://skillicons.dev/icons?i=java,neovim,vscode,idea)
 
 ✓ I primarily write code using **Neovim**.
 
@@ -15,7 +15,6 @@
 
 - Currently studying BS Information Technology at the University of Mindanao
 - Interested in learning new technologies
-- Focused on building strong programming fundamentals
 - Currently practicing OOP fundamentals
 - Documenting my learning journey through practice repositories
   
