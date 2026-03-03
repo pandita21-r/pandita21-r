@@ -13,9 +13,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: pandita21-r
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=FF69B4&color_dots=161B22,161B22,161B22,161B22,161B22
-            dist/github-contribution-grid-snake-dark.svg?color_snake=FF69B4&color_dots=0D1117,0D1117,0D1117,0D1117,0D1117
+          outputs: |      
+            dist/github-contribution-grid-snake.svg?color_snake=FF69B4&color_head=FF69B4&color_snake_outline=FF1493&color_dots=EBEDF0,9BE9A8,40C463,30A14E,216E39
+            dist/github-contribution-grid-snake-dark.svg?color_snake=FF69B4&color_head=FF69B4&color_snake_outline=FF1493&color_dots=161B22,0E4429,006D32,26A641,39D353
+
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
