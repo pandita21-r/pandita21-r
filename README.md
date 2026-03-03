@@ -23,5 +23,6 @@
 
 
 <p align="center">
-  https://raw.githubusercontent.com/pandita21-r/pandita21-r/output/github-contribution-grid-snake-dark.svg
+  <img src="https://raw.githubusercontent.com/pandita21-r/pandita21-r/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
