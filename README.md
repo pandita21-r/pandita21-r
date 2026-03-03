@@ -20,3 +20,8 @@
 - Documenting my learning journey through practice repositories
   
 ↗ *This profile and my repositories will continue to grow as I learn and improve.*
+
+
+<p align="center">
+  https://raw.githubusercontent.com/pandita21-r/pandita21-r/output/github-contribution-grid-snake-dark.svg
+</p>
