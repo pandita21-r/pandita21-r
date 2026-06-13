@@ -2,9 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pandita21-r&label=My%20Visitors&color=brightgreen&style=flat)
 
- ◓ BS Information Technology student 
- 
- ◓ Building strong programming fundamentals, one step at a time  
+ - BS Information Technology student 
+ - Building strong programming fundamentals, one step at a time  
 
 ## Tech Stack & Tools
 
@@ -14,13 +13,10 @@
 
 ## ⨠ About Me
 
-◓ Currently studying BS Information Technology at the University of Mindanao
-
-◓ Interested in learning new technologies
-
-◓ Currently practicing OOP fundamentals
-
-◓ Documenting my learning journey through practice repositories
+- Currently studying BS Information Technology at the University of Mindanao
+- Interested in learning new technologies
+- Currently practicing OOP fundamentals
+- Documenting my learning journey through practice repositories
   
 <i>Certifications:</i><br>
 
