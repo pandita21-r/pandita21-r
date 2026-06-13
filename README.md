@@ -21,4 +21,12 @@
   
 ↗ *This profile and my repositories will continue to grow as I learn and improve.*
 
-<i>Follow me around the web:</i><br>
+<i>Certifications:</i><br>
+
+## Certifications
+
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange)](YOUR_CREDLY_BADGE_URL)
+
+[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-blue)](YOUR_CREDLY_BADGE_URL)
+
+[![Google IT Support](https://img.shields.io/badge/Google-IT_Support-green)](YOUR_CREDLY_BADGE_URL)
