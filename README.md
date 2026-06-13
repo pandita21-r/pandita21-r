@@ -12,6 +12,10 @@
 
 ✓ I primarily write code using **Neovim**.
 
+## Certifications
+
+[![IT Specialist - Java](https://img.shields.io/badge/IT%20Specialist-Java-2F9FD7?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0)
+
 ## ⨠ About Me
 
 - Currently studying BS Information Technology at the University of Mindanao
@@ -20,9 +24,3 @@
 - Documenting my learning journey through practice repositories
   
 ↗ *This profile and my repositories will continue to grow as I learn and improve.*
-
-<i>Certifications:</i><br>
-
-## Certifications
-
-[![IT Specialist - Java](https://img.shields.io/badge/IT%20Specialist-Java-2F9FD7?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0)
