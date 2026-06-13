@@ -15,8 +15,11 @@
 ## ⨠ About Me
 
 ◓ Currently studying BS Information Technology at the University of Mindanao
+
 ◓ Interested in learning new technologies
+
 ◓ Currently practicing OOP fundamentals
+
 ◓ Documenting my learning journey through practice repositories
   
 <i>Certifications:</i><br>
