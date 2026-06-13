@@ -19,5 +19,6 @@
 - Currently practicing OOP fundamentals
 - Documenting my learning journey through practice repositories
   
-**Certifications:**
+<i>Certifications:</i><br>
+
 [![IT Specialist - Java](https://img.shields.io/badge/Certiport-IT%20Specialist%20Java-00A4EF?style=for-the-badge&logo=pearson&logoColor=white)](https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0)
