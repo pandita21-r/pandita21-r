@@ -11,8 +11,9 @@
 
 ✓ I primarily write code using **Neovim**.
 
-## ⨠ About Me
+## ▶ About Me
 
+- Big fan of coffee ☕
 - Currently studying BS Information Technology at the University of Mindanao
 - Interested in learning new technologies
 - Currently practicing OOP fundamentals
