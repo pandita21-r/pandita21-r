@@ -25,4 +25,4 @@
 
 ## Certifications
 
-[![IT Specialist - Java](https://img.shields.io/badge/Google-IT_Support-green)](YOUR_CREDLY_BADGE_URL)
+[![IT Specialist - Java](https://img.shields.io/badge/IT%20Specialist-Java-2F9FD7?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0)
