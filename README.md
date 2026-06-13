@@ -25,8 +25,4 @@
 
 ## Certifications
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange)](YOUR_CREDLY_BADGE_URL)
-
-[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-blue)](YOUR_CREDLY_BADGE_URL)
-
-[![Google IT Support](https://img.shields.io/badge/Google-IT_Support-green)](YOUR_CREDLY_BADGE_URL)
+[![IT Specialist - Java](https://img.shields.io/badge/Google-IT_Support-green)](YOUR_CREDLY_BADGE_URL)
