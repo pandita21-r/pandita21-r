@@ -14,7 +14,7 @@
 
 ## Certifications
 
-[![IT Specialist - Java](https://img.shields.io/badge/🏆%20IT%20Specialist-Java-2F9FD7?style=for-the-badge)](https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0)
+[![IT Specialist - Java](https://img.shields.io/badge/IT%20Specialist-Java-007396?style=plastic&logo=openjdk&logoColor=white)](https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0)
 
 ## ⨠ About Me
 
