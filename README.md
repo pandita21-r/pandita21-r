@@ -22,14 +22,13 @@
 
 <div align="center">
 
-### 🎓 My Certifications
+### My Certifications:
 
 <table>
   <tr>
-    <!-- Certification 1: IT Specialist Java -->
     <td align="center" width="200px">
       <a href="https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0" target="_blank">
-        <img src="https://images.credly.com/images/c463efe9-97a3-4e9a-aa2c-91409e217fc0/image.png" width="110" alt="IT Specialist - Java Certiport Badge"/><br />
+        <img src="https://github.com/user-attachments/assets/a060ed93-f6b9-4fa5-84a4-d5b3a0ec21ba" width="110" alt="IT Specialist - Java Certiport Badge"/><br />
       </a>
       <br />
       🗓️ <i>May 20, 2026</i><br />
