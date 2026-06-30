@@ -32,7 +32,7 @@
         <img src="./images/java-cert.png" width="110" alt="IT Specialist - Java Certiport Badge"/><br />
       </a>
       <br />
-      🗓️ <i>Earned Date</i><br />
+      🗓️ <i>May 20, 2026</i><br />
       🔗 <a href="https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0" target="_blank">Credential</a><br />
       <sub><i>Validates fundamental Java programming concepts and OOP logic.</i></sub>
     </td>
