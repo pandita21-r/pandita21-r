@@ -7,7 +7,7 @@
 
 ## Tech Stack & Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=java,python,neovim,vscode,idea,git,linux)
+![Tech Stack](https://skillicons.dev/icons?i=java,python,neovim,vscode,idea,git,xampp)
 
 ✓ I primarily write code using **Neovim**.
 
