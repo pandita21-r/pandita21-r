@@ -29,7 +29,7 @@
     <!-- Certification 1: IT Specialist Java -->
     <td align="center" width="200px">
       <a href="https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0" target="_blank">
-        <img src="./images/java-cert.png" width="110" alt="IT Specialist - Java Certiport Badge"/><br />
+        <img src="https://images.credly.com/images/c463efe9-97a3-4e9a-aa2c-91409e217fc0/image.png" width="110" alt="IT Specialist - Java Certiport Badge"/><br />
       </a>
       <br />
       🗓️ <i>May 20, 2026</i><br />
