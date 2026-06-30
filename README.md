@@ -29,17 +29,13 @@
     <!-- Certification 1: IT Specialist Java -->
     <td align="center" width="200px">
       <a href="https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0" target="_blank">
-        <!-- Change 'java-cert.png' to the exact filename you uploaded -->
-        <img src="./java-cert.png" width="110" alt="IT Specialist - Java Certiport Badge"/><br />
+        <img src="./images/java-cert.png" width="110" alt="IT Specialist - Java Certiport Badge"/><br />
       </a>
       <br />
       🗓️ <i>Earned Date</i><br />
       🔗 <a href="https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0" target="_blank">Credential</a><br />
       <sub><i>Validates fundamental Java programming concepts and OOP logic.</i></sub>
     </td>
-    
-    <!-- Future certifications can be pasted right here as new <td> blocks! -->
-    
   </tr>
 </table>
 
