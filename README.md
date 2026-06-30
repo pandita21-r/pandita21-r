@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<i>Certifications:</i><br>
+<i>My Certifications:</i><br>
 
 <table>
   <tr>
