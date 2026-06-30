@@ -21,3 +21,28 @@
 <i>Certifications:</i><br>
 
 [![IT Specialist - Java](https://img.shields.io/badge/Certiport-IT%20Specialist%20Java-00A4EF?style=for-the-badge&logo=pearson&logoColor=white)](https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0)
+
+---
+
+<div align="center">
+
+### 🎓 My Certifications
+
+<table>
+  <tr>
+    <!-- Certification 1: IT Specialist Java -->
+    <td align="center" width="2000px">
+      <a href="https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0" target="_blank">
+        <img src="https://img.shields.io/badge/Certiport-IT%20Specialist%20Java-00A4EF?style=for-the-badge&logo=pearson&logoColor=white" width="160" alt="IT Specialist - Java"/><br />
+      </a>
+      🗓️ Earned Date<br />
+      🔗 <a href="https://www.credly.com/badges/c463efe9-97a3-4e9a-aa2c-91409e217fc0" target="_blank">Credential</a><br />
+      <sub><i>Validates fundamental Java programming concepts and OOP logic.</i></sub>
+    </td>
+    
+    <!-- You can copy/paste this block right here when you get your next certification! -->
+    
+  </tr>
+</table>
+
+</div>
